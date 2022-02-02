@@ -1,4 +1,4 @@
-## Titre de l'oeuvre ou de la réalisation
+# Titre de l'oeuvre ou de la réalisation
 
 ## Nom de l'artiste ou de la firme
 
@@ -20,10 +20,10 @@
 
 ## Expérience vécue :
 
-# - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-# - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 
-# - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## Références
