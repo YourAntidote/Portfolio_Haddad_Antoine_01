@@ -34,4 +34,5 @@ Un aspect primordial que je ferai autrement si j'avais à créer une telle œuvr
 ![Croquis.png](Croquis/Croquis.png)
 ## Références
 http://www.digiart21.org/art/unfold
+
 https://www.stereolux.org/agenda/unfold-ryoichi-kurokawa-constrained-surface-ryoichi-kurokawa
