@@ -12,6 +12,7 @@ Montréal, Québec. L'Arsenal
 9 février 2022
 ## Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 (Ce texte est tiré du cartel d'expo)
+
 Kurokawa est un véritable poète du cinéma transformateur, transfigurant avec lyrisme les représentations analogiques de la nature perçue en flux numériques d'images et d'émotions vertigineuses. La précision architecturale de ses images fragmentaires synchronisées avec sensibilité, placées côte à côte sur notre rétine, tend à déplacer la persistance de la mémoire floue sous l'effet d'une luminosité sans limite. Il considère l'élément audio et visuel comme les différents vecteurs d'une pièce unique et insiste sur le fait qu'ils doivent s'écouler ensemble pour entrer en collision en même temps. Inspirée par les dernières découvertes dans le domaine de l'astrophysique, l'installation immersive et sensorielle de Ryoichi Kurokawa, cherche à traduire en sons, images et vibrations, les phénomènes entourant la formation et l'évolution des étoiles. Avec unfold, Ryoichi Kurokawa s'intéresse à la synesthésie, en fusionnant les matériaux sonores et visuels, au service d'un projet art/science inspiré des découvertes récentes.
 ![Cartel.jgp](photographies/Cartel.jpg)
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
@@ -26,7 +27,8 @@ L'expérience étant de ressentir la basse et le son vibrant dans le corps qui a
 ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 La sensation des basses vibrantes dans tout le corps rendait cette expérience à couper le souffle. Parfois, mon corps s'emballait tellement que le battement de mon cœur en accélérait au fur et à mesure que les images et la musique s'intensifiassent. 
 ### - ❤️ Ce qui vous a plu, vous a donné des idées et justifications
-J'ai bien aimé la synchronisation des images avec la musique et la basse, cela m'en donnait fréquemment des frissons. J'ai toujours été un adepte aux basses fréquences que ce soit pour la musique ou les films.(Ici je ne sais pas pourquoi, mais GitHub ne peut pas s'empêcher de mettre ma photo à l'envers) ![autoportrait.jgp](photographies/autoportrait.jpg)
+J'ai bien aimé la synchronisation des images avec la musique et la basse, cela m'en donnait fréquemment des frissons. J'ai toujours été un adepte aux basses fréquences que ce soit pour la musique ou les films. 
+(Ici, je ne sais pas pourquoi, mais GitHub ne peut pas s'empêcher de mettre ma photo à l'envers) ![autoportrait.jgp](photographies/autoportrait.jpg)
 ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Un aspect primordial que je ferai autrement si j'avais à créer une telle œuvre, cela serait la mise en exposition. En effet, je n'ai pas aimé le fait que cette œuvre fut au milieu de la grande salle, grand ouvert, sans le moindre mur. À cause de ceci, il était parfois difficile de se concentrer sur la vidéo parce qu'il y avait trop de bruit des gens qui admiraient les autres œuvres aux alentours. À la place, j'installerais mon œuvre dans une pièce fermée et plongée dans le noir afin de rendre l'expérience encore meilleure que jamais.
 ## Références
