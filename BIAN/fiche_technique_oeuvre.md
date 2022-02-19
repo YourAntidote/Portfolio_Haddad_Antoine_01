@@ -31,7 +31,7 @@ J'ai bien aimé la synchronisation des images avec la musique et la basse, cela 
 ![autoportrait.jgp](photographies/autoportrait.jpg)
 ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Un aspect primordial que je ferai autrement si j'avais à créer une telle œuvre, cela serait la mise en exposition. En effet, je n'ai pas aimé le fait que cette œuvre fut au milieu de la grande salle, grand ouvert, sans le moindre mur. À cause de ceci, il était parfois difficile de se concentrer sur la vidéo parce qu'il y avait trop de bruit des gens qui admiraient les autres œuvres aux alentours. À la place, j'installerais mon œuvre dans une pièce fermée et plongée dans le noir afin de rendre l'expérience encore meilleure que jamais. 
-![croquis.png](croquis/croquis.png)
+![Croquis.png](Croquis/Croquis.png)
 ## Références
 http://www.digiart21.org/art/unfold
 https://www.stereolux.org/agenda/unfold-ryoichi-kurokawa-constrained-surface-ryoichi-kurokawa
