@@ -21,7 +21,7 @@ Derrière chacune des 3 toiles était placé un projecteur afin de projecteur la
 3 grandes toiles servant d'écrans pour les 3 projecteurs, vidéo d'immersion de 8 minutes, 6 haut-parleurs pour du surround 6.1.1, 8 transducteurs.
 ![Arriere.jgp](photographies/Arriere.jpg) ![projecteur_2.jgp](photographies/projecteur_2.jpg) ![projecteur_3.jgp](photographies/projecteur_3.jpg) ![ensemble_des_ecrans.jgp](photographies/ensemble_des_ecrans.jpg) ![Haut_parleur.jgp](photographies/haut_parleur.jpg) ![La_plateforme.jgp](photographies/La_plateforme.jpg)
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
-3 grandes toiles blanches rectangulaires firent placer les unes sur les autres ainsi à ce que la troisième se retrouve à plat au-dessus de l'emplacement de visionnage. Pour s'y faire, deux d'entre eux sont suspendus à l'aide de câble de métal très solide, une disposé en angle afin de coller la toile au sol et celle à plat en l'air. Afin de rendre les fils électriques plus discrets, ils furent tous collés avec du ruban noir sur le plancher. La console de son était placée en arrière des toiles. ![cable_de_suspension.jgp](photographies/cable_de_suspension.jpg)
+3 grandes toiles blanches rectangulaires firent disposés verticalement de façon à créer une forme parabolique. Pour s'y faire, deux d'entre eux sont suspendus à l'aide de câble de métal très solide, une disposé en angle afin de coller la toile au sol et celle à plat en l'air. Afin de rendre les fils électriques plus discrets, ils furent tous collés avec du ruban noir sur le plancher. La console de son était placée en arrière des toiles. ![cable_de_suspension.jgp](photographies/cable_de_suspension.jpg)
 ## Expérience vécue :
 L'expérience étant de ressentir la basse et le son vibrant dans le corps qui accompagne cette courte vidéo démontrant l'évolution des étoiles.
 ### - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
@@ -30,8 +30,8 @@ La sensation des basses vibrantes dans tout le corps rendait cette expérience �
 J'ai bien aimé la synchronisation des images avec la musique et la basse, cela m'en donnait fréquemment des frissons. J'ai toujours été un adepte aux basses fréquences que ce soit pour la musique ou les films. 
 ![autoportrait.jgp](photographies/autoportrait.jpg)
 ### - 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-Un aspect primordial que je ferai autrement si j'avais à créer une telle œuvre, cela serait la mise en exposition. En effet, je n'ai pas aimé le fait que cette œuvre fut au milieu de la grande salle, grand ouvert, sans le moindre mur. À cause de ceci, il était parfois difficile de se concentrer sur la vidéo parce qu'il y avait trop de bruit des gens qui admiraient les autres œuvres aux alentours. À la place, j'installerais mon œuvre dans une pièce fermée et plongée dans le noir afin de rendre l'expérience encore meilleure que jamais.
+Un aspect primordial que je ferai autrement si j'avais à créer une telle œuvre, cela serait la mise en exposition. En effet, je n'ai pas aimé le fait que cette œuvre fut au milieu de la grande salle, grand ouvert, sans le moindre mur. À cause de ceci, il était parfois difficile de se concentrer sur la vidéo parce qu'il y avait trop de bruit des gens qui admiraient les autres œuvres aux alentours. À la place, j'installerais mon œuvre dans une pièce fermée et plongée dans le noir afin de rendre l'expérience encore meilleure que jamais. 
+![croquis.png](croquis/croquis.png)
 ## Références
-.
-.
-
+http://www.digiart21.org/art/unfold
+https://www.stereolux.org/agenda/unfold-ryoichi-kurokawa-constrained-surface-ryoichi-kurokawa
