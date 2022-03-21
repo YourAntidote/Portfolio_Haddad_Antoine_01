@@ -24,11 +24,11 @@ motif que le duo traite de longue date.
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 4 murs de bois contreplaqué russe sont collés en groupe de deux afin de former des "L". Ceux-ci sont légèrement inclinés vers l'arrière soutenu grâce à d'autres morceaux servant de support aux murs.
-Ensuite, elles sont disposées à l'envers de l'autre, formant presque un rectangle. Cela permettait un espace pour entrer et sortir de l'œuvre. Derrière chaque mur, un transducteur permettant la vibration dans les murs.
+Ensuite, elles sont disposées à l'envers de l'autre, formant presque un rectangle. Cela permettait un espace pour entrer et sortir de l'œuvre. Derrière chaque mur, un transducteur est fixé permettant la vibration dans les murs.
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 Contreplaqué baltique, transducteurs, amplificateur, interface audio, détecteurs de mouvement, ordinateur, alimentation, 2 projecteurs tungstènes.
-
+![Capteur_mouvement.jgp](photographies/Capteur_mouvement.jpg) ![transducteur.jgp](photographies/transducteur.jpg)
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 Les murs sont de grandes planches de bois contreplaqué russe; matière offrant une meilleure liberté des vibrations sonores. 
 Des fils transparents ou blancs sont utilisés afin d'être le plus dissimulés possible. 
