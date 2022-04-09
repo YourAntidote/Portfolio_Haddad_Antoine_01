@@ -39,3 +39,16 @@ J'ai adoré les musiques sonores qui accompagnait chacune des époques. En plus,
 Cependant, j'ai un peu moins aimé l'animation données aux petit bonhommes ou aux animaux par exemple. Tout leur membre restèrent static, il y avait que seulement des déplacements haut, bas ou des gauches, droites. En gros, je leur aurais donné plus de mouvement et d'articulation.
 ## Références
 - https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+- 
+# Ordre de préférence après visite
+
+## 1 - L'horloge de l'apocalyspe
+À l'execption des animations mentionné plutôt, le projet était vraiment mieux que mes attentes.
+## 2 - Jeu temporel
+C'était très amusant faire le quiz de ce jeu, très instructifs.
+## 3 - 3 minutes
+C'était difficile de choisir entre 3 minutes et Jeu temporel, mais malgré le jeu de lancage de ballon amusant, j'ai décidé de mettre le projet de 3 minutes en 3e position à cause que c'était un petit espace de jeu. À chaque lancer j'avais peur de frapper quelqu'un.
+## 4 - Chère Sasha
+J'ai surprenamment apprécier ce projet, il y avait vraiment plus d'interaction de ce que je m'y attendais et c'est grâce à cela que l'histoire était intéressante a écouté.
+## 5 - Distorsion Collective
+J'ai été très décu de celui-ci puisqu'il n'y presque aucune interaction. Aussi, je trouve qui manquait beaucoup de décors dans la maison virtuelle.
