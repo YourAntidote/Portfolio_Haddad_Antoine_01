@@ -2,6 +2,7 @@
 
 # Titre de la réalisation
 La Terre vue d'en haut[?]
+![vue_ensemble.jpg](Photographies/vue_ensemble.jpg)
 ## Nom de l'artiste ou de la firme
 *Non mentionné*
 ## Année de réalisation
