@@ -22,7 +22,7 @@ Collège Montmorency, le peit studio.
 Source : [tim-montmorency.com](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 Un rideau blanc est accroché afin de recouvrir 3 murs sur 4. Avec ce grand espace blanc ainsi que 3 projecteur, une vidéo synchroniser avec les autre projecteurs est projeter. Au centre de la pièce, se trouve une holorge et un téléphone.
-![studio.jpg](Photographies/studio.jpg) ![plantation.jpg](Croquis/plantation.jpg) (Croquis tiré sur leur page web) Source : [tim-montmorency.com](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+![studio.jpg](Photographies/studio.jpg) ![plantation.png](Croquis/plantation.png) (Croquis tiré sur leur page web) Source : [tim-montmorency.com](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 3 projecteurs, horloge, caméra, téléphone, potentiomètre rotatif à douze encoches, lumière, haut-parleurs.
 ![projecteurs.jgp](Photographies/projecteurs.jpg) ![camera.jgp](Photographies/camera.jpg) ![horloge.jgp](Photographies/horloge.jpg) ![potentiometre.jgp](Photographies/potentiometre.jpg)
