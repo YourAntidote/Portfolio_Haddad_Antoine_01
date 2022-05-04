@@ -43,9 +43,9 @@ Cependant, j'ai un peu moins aimé l'animation données aux petit bonhommes ou a
 # Ordre de préférence après visite
 
 ## 1 - L'horloge de l'apocalyspe
-À l'execption des animations mentionné plutôt, le projet était vraiment mieux que mes attentes.
+À l'execption des animations mentionné plutôt, le projet était vraiment mieux que mes attentes, cela a captivé mon attention jusqu'à la fin.
 ## 2 - Jeu temporel
-C'était très amusant faire le quiz de ce jeu, très instructifs.
+C'était très amusant faire le quiz de ce jeu, parce qu'il était très instructifs.
 ## 3 - 3 minutes
 C'était difficile de choisir entre 3 minutes et Jeu temporel, mais malgré le jeu de lancage de ballon amusant, j'ai décidé de mettre le projet de 3 minutes en 3e position à cause que c'était un petit espace de jeu. À chaque lancer j'avais peur de frapper quelqu'un.
 ## 4 - Chère Sasha
