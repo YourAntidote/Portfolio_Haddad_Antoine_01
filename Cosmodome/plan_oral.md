@@ -1,19 +1,5 @@
-Ce plan ne sera pas partagé à vos collègues, mais sera utilisé par votre professeure pour l'évaluation
+TopoBox est le nom de la seule installation qui su captivé mon attention et qui m'a énormément fasciné lors de ma visite personnelle. Les informations sur l'oeuvre, une description plus approfondie, mon expérience et mon avis personnel seront les différents points que j'élaborerai dans cette présentation afin de mieux vous faire comprendre de quoi il s'agit.
 
-Introduction :
+Ce 23 mars dernier, je suis allé visiter l'exposition *Objectif Terre : comprendre notre planète depuis l’espace* au Cosmodôme de Laval. TopoBox est un bac à sable à réalité augmentée qui a été développer par la compagnie *Reactive Digital Systems* dans un but éducatif pour toutes les enfants et les adultes. D'abord, comme on peut l'entendre, il s'agit d'un bac en bois ou en métal sur pattes, rempli de sable ou de papier et l'aide d'un projecteur et d'un miroir positionner au-dessus, on vient projeter des couleurs sur l'ensemble du bac. Cependant, grâce au scanneur kinect 3D, les couleurs diffusées changent dépendamment de la hauteur des piles de sable. Le tout, étant relié à un ordinateur (tour) qui est caché dans une boite d'une parfaite dimension. J'ai remarqué en passant qu'il s'agissait des mêmes scanneurs Kinect que les élèves de 3e lorsqu'ils ont créé leurs propres installations durant la session. Ensuite, l'interaction de cette installation est de venir jouer avec le sable et de voir sous les yeux l'environnement changer en l'espace que d'une seconde. De plus, si une main est positionnée juste au-dessus du sable, le programme détecte la main et déclenche une simulation de pluie autour de la main. L'installation a été très intriguant et fascinant à interagir avec, et ce qui m'a le plus plu c'est le fait qu'il puisse s'adapter à l'environnement peut-importe comment il fait et sur ce même fait, je m'en inspire beaucoup. L'aspect que je ne souhaiterais pas retenir pour mes propres créations c'est l'absence de mon nom ou celle de mon équipe. Peut-être que le cartel qui nommait les noms de tous les créateurs des oeuvres, mais encore là il ne devait pas être pas assez évident pour que je tombe dessus.
 
-    Quel est l'objectif de votre communication (sujet posé = présentation oeuvre + expérience)
-    Quels aspects seront abordés ? (sujet divisé = les différents points du développement)
-
-Développement :
-
-    Informations sur l'oeuvre et le lieu d'exposition (Titre, Nom de l'artiste, Année de réalisation, Nom de l'exposition ou de l'événement, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
-    Présentation détaillée de l'oeuvre (description, mise en espace, composantes, éléments)
-    Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion, des gestes à poser, etc)
-    Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
-    Liens avec autres oeuvres et expériences multimédias découvertes cette session
-
-Conclusion :
-
-    Rappel des aspects présentés
-    Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session
+En bref, j'espère que les informations, la description plus approfondie et mon avis personnel que j'ai présenté vous auront permis d'en savoir un peu plus sur l'installation multimédia que j'ai choisi et même inspirer certains d'entre vous. Et pour finir, la conférence de Umitemieu que nous avons assisté à la salle Claude Legault cette session-ci, est l'élément qui m'a le plus inspiré de toute la session; pouvoir importer des objets réels en objets 3D aussi facilement, en tant que futur conceptionneur de jeu et propriétaire d'une imprimante 3D, je ne peux pas rêver mieux.
